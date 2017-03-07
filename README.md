@@ -10,8 +10,8 @@ All features above only tested in TDH(<a href="http://www.transwarp.io">Transwar
 
 ## Download
 You can download prebuilt binaries from either links below:
-![Baidu Yun Cloud Storage](https://pan.baidu.com/s/1sk8A6CH)
-![GitHub](https://github.com/bash-horatio/kafkit-binaries)
+<br />![Baidu Yun Cloud Storage](https://pan.baidu.com/s/1sk8A6CH)
+<br />![GitHub](https://github.com/bash-horatio/kafkit-binaries)
 
 
 ## Usage
