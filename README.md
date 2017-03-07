@@ -66,21 +66,6 @@ bin/kafkit -c conf/generator.properties -a gen
 ````
 
 
-## Compilation
-### Prerequisites:
-* JDK 1.7+
-* Scala 2.10+
-* Apache Maven 3+
-* Internet access
-
-### Build
-```sh
-git clone http://gitlab-ci-token:mMjxpesFnv6vqGSAg85V@172.16.1.41:10080/horatio/hiperf-kafkit.git
-cd hiperf-kafkit
-bin/build.sh [-Pshade]
-```
-
-
 ## Contribution
 - Hiperf Kafkit is a free non-profitable hobbie project. Please don't expect immediate reaction on issues.
 - If you have any questions, suggestions, ideas and so on, just create an issue here.
